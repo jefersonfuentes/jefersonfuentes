@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Jeferson Fuentes 👋
 
-<!--
-**jefersonfuentes/jefersonfuentes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer in progress, currently studying Systems Engineering with a focus on backend development.
 
-Here are some ideas to get you started:
+## 🚀 Skills:
+- **Backend**: Java, Spring Boot, Python, PHP, Node.js
+- **Frontend**: HTML, CSS, JavaScript, React, Bootstrap, TailWind
+- **Tools**: Git, GitHub, WordPress
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning:
+- Backend with Java & Spring (Oracle Next Education)
+- Web3 technologies
+
+## 💼 Experience:
+- **Web Developer Intern**: WordPress, Frontend, and Backend.
+- **Junior Web Developer**: Web development projects focusing on performance.
+- **Digital Solutions Executive**: Managed web projects.
