@@ -10,8 +10,3 @@ I'm a Software Engineer in progress, currently studying Systems Engineering with
 ## 📚 Currently Learning:
 - Backend with Java & Spring (Oracle Next Education)
 - Web3 technologies
-
-## 💼 Experience:
-- **Web Developer Intern**: WordPress, Frontend, and Backend.
-- **Junior Web Developer**: Web development projects focusing on performance.
-- **Digital Solutions Executive**: Managed web projects.
