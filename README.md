@@ -22,3 +22,5 @@ I'm a Software Engineer in progress, currently studying Systems Engineering with
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jefersonfg/)  
 - 📫 jeferson.fg710@gmail.com
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jefersonfuentes&show_icons=true&locale=en" alt="jefersonfuentes" /></p>
