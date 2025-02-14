@@ -7,9 +7,9 @@
     
 </p>
 
-[![Twitter: JefersonFuentes](https://img.shields.io/twitter/follow/jefersonfuentes?style=social&color=black)](https://twitter.com/fuentesgja)
-[![GitHub: jefersonfuentes](https://img.shields.io/github/followers/jefersonfuentes?label=follow&style=social&color=black)](https://github.com/jefersonfuentes)
-<img src="https://komarev.com/ghpvc/?username=jefersonfuentes&color=blueviolet"/>
+[![Twitter: strakerbit](https://img.shields.io/twitter/follow/strakerbit?style=social&color=black)](https://twitter.com/fuentesgja)
+[![GitHub: strakerbit](https://img.shields.io/github/followers/strakerbit?label=follow&style=social&color=black)](https://github.com/strakerbit)
+<img src="https://komarev.com/ghpvc/?username=strakerbit&color=blueviolet"/>
 
 I'm a Software Engineer in progress, currently studying Systems Engineering with a focus on backend development.
 
@@ -28,6 +28,6 @@ I'm a Software Engineer in progress, currently studying Systems Engineering with
 - 📫 jeferson.fg@proton.me
 <h2>☕ Statistics</h2>
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=jefersonfuentes&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonfuentes&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=strakerbit&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=strakerbit&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
 </p>
