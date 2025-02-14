@@ -1,5 +1,5 @@
 <img align='right' src="https://i.pinimg.com/originals/33/bd/d7/33bdd73f8ed677ef20a71935341b5c22.gif" width="350" >
-<h1>HI, I'm Jeferson Fuentes 👋 </h1> 
+<h1>HI, I'm Straker 👋 </h1> 
   
 🛠️ Software Engineer | 🌐 Cybersecurity Enthusiast | 💎 Great vision developer
 
@@ -25,7 +25,7 @@ I'm a Software Engineer in progress, currently studying Systems Engineering with
 ## Connect With Me ⛷️
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jefersonfg/)  
-- 📫 jeferson.fg710@gmail.com
+- 📫 jeferson.fg@proton.me
 <h2>☕ Statistics</h2>
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=jefersonfuentes&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000">
